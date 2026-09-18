@@ -1,0 +1,7 @@
+{
+  "DB_HOST": "localhost",
+  "DB_USER": "seu_usuario",
+  "DB_PASSWORD": "sua_senha",
+  "DB_NAME": "crud_python",
+  "DB_PORT": 3306
+}

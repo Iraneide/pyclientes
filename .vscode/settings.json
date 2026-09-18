@@ -1,0 +1,17 @@
+﻿{
+  "editor.tokenColorCustomizations": {
+    "comments": "#D97706",
+    "textMateRules": [
+      {
+        "scope": ["comment", "punctuation.definition.comment"],
+        "settings": { "fontStyle": "bold" }
+      }
+    ],
+    "[Default Dark Modern][Default Dark+][Default High Contrast][Visual Studio Dark]": {
+      "comments": "#FFB454"
+    },
+    "[Default Light Modern][Default Light+][Default High Contrast Light][Visual Studio Light]": {
+      "comments": "#A84300"
+    }
+  }
+}
